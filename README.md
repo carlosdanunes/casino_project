@@ -1,5 +1,5 @@
 ***********
-To run the project, you must import the file casino.sql, you will find it, in _DATABASE folder, using phpmyadmin or similar
+To run the project, you must import the file casino.sql, you will find, in _DATABASE folder, using phpmyadmin or similar
 The funcionality is found, in the url http://localhost/.../search
 ***********
 
